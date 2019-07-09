@@ -15,9 +15,10 @@ Agenda:
    2. How are they invoked
    3. Different shell processes, different env
    4. Find variables used. How variables & paths get set. 
-3. Basic commands
+3. Regular Exrpessions (regex or RE)
+4. Basic commands
    1. find, sed, awk
-4. Basic scripting tutorial
+5. Basic scripting tutorial
    1. What needed
    2. best practice
    3. how to debug/trace scripts
